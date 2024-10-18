@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source projects to help me develop my skills.
 - 📫 How to reach me ndowahmarcel@gmail.com.
 - 😄 Pronouns: He/His.
-- ⚡ Fun fact: Music.
+
 
 <!---
 marcndo/marcndo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
