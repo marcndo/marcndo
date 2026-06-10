@@ -1,4 +1,6 @@
-## Hi there 👋
+## ML/AI Engineer | Python · PyTorch · LangChain · FastAPI
+Building end-to-end ML systems — pipelines to deployed APIs
+Open to remote roles | ndowahmarcel@gmail.com
 
 <!--
 **marcndo/marcndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
