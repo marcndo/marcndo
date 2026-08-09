@@ -1,19 +1,12 @@
-## ML/AI Engineer | Python · PyTorch · LangChain · FastAPI
-Building end-to-end ML systems — pipelines to deployed APIs
-Open to remote roles | ndowahmarcel@gmail.com
+## Backend Engineer | Python · FastAPI · PostgreSQL · Git | Mathematics Graduate & Open Source Contributor
 
-<!--
-**marcndo/marcndo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**OCaml Tooling & Ecosystem**
+* **Advanced API Diffing Engine:** Extended OCaml API diffing logic to systematically detect class-level additions and removals across codebase versions.
+* **Type System Integration:** Integrated complex new item representations into existing production diff pipelines, navigating rigid module signatures and type systems.
+* **Asynchronous Collaboration:** Delivered peer-reviewed code asynchronously to a production open-source toolchain, adhering to strict maintainer code reviews.
 
-Here are some ideas to get you started:
+**Hugging Face Transformers (`huggingface/transformers`)**
+* **Codebase Maintenance:** Contributed foundational code and documentation updates to the world’s leading Machine Learning framework, coordinating via global Git workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 LinkedIn: https://www.linkedin.com/in/marcelndowah/
